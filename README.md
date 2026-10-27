@@ -48,5 +48,6 @@ La clasificación PNDR permite identificar las comunas de Chile según su carác
 Esta información se utilizará para incorporar la dimensión territorial al análisis y comparar las brechas de género según el tipo de comuna.
 
 Integración de las fuentes
+
 Ambas bases se vincularán mediante el código de comuna, permitiendo asociar la información de CASEN 2024 con la clasificación territorial PNDR.
 Se considerarán los factores de expansión y las limitaciones de representatividad de CASEN para realizar e interpretar las comparaciones territoriales.
