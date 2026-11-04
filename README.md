@@ -46,4 +46,6 @@ Participación en el mercado laboral.
 Realización de tareas de cuidado, según las variables disponibles.
 Comuna de residencia.
 
-Se considerarán los factores de expansión y las limitaciones de representatividad de CASEN para realizar e interpretar las comparaciones territoriales. La base de datos de CASEN 2024 se puede descargar en el siguiente enlace https://bidat.gob.cl/details/ficha/dataset/base-de-datos-casen-2024
+Se considerarán los factores de expansión y las limitaciones de representatividad de CASEN para realizar e interpretar las comparaciones territoriales. 
+
+La base de datos de CASEN 2024 se puede descargar en el siguiente enlace https://bidat.gob.cl/details/ficha/dataset/base-de-datos-casen-2024
