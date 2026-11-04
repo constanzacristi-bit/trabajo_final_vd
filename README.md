@@ -1,17 +1,19 @@
-# Brechas de género en la participación laboral y el trabajo no remunerado y de cuidados: un análisis territorial de las comunas de Chile.
-Las brechas de género en la participación laboral constituyen un desafío crucial para la equidad económica en Chile.  Si bien la evidencia nacional muestra que la distribución desigual del trabajo no remunerado y de cuidados restringe la inserción laboral de las mujeres, resulta fundamental profundizar en cómo estas desigualdades se manifiestan en distintos contextos territoriales.  Con el propósito de aportar evidencia empírica que contribuya al diseño de políticas públicas e investigaciones con enfoque de género y territorial, este proyecto busca analizar las brechas de género en la participación laboral y el trabajo no remunerado y de cuidados a escala comunal, considerando las diferencias entre comunas rurales, urbanas y mixtas.  
+# Brechas de género en la participación laboral y las responsabilidades de cuidado: diferencias entre zonas urbanas y rurales de Chile.
+Las brechas de género en la participación laboral constituyen un desafío crucial para la equidad económica en Chile. Si bien la evidencia nacional muestra que la distribución desigual del trabajo no remunerado y de cuidados restringe la inserción laboral de las mujeres, los promedios nacionales pueden ocultar diferencias importantes entre zonas urbanas y rurales del país.  ¿Qué ocurre cuándo comparamos estas diferencias territoriales?  ¿Se mantienen las mismas brechas? 
+Este proyecto es una exploración inicial de los datos de la Encuesta de Caracterización Socioeconómica Nacional (Casen) del 2024, con el propósito de profundizar en cómo estas brechas se manifiestan en distintos contextos territoriales. 
 ## Pregunta principal
-¿Existen diferencias en las brechas de género en la participación laboral y las tareas de cuidado entre comunas rurales, urbanas y mixtas de Chile?
+¿Cómo varía entre zonas urbanas y rurales la brecha de género en la participación laboral, y qué parte de esa brecha se explica por la inactividad debida al cuidado?
 ## Preguntas exploratorias
-1. ¿Cómo varía la participación laboral de mujeres y hombres entre comunas rurales, urbanas y mixtas?
-2. ¿Existen diferencias territoriales en la distribución de las tareas de cuidado entre mujeres y hombres?
-3. ¿Se observa una asociación entre la realización de tareas de cuidado y la participación laboral femenina?
+1.	¿Qué dicen los promedios nacionales? 
+2.	¿Existen diferencias entre las zonas urbanas y rurales?
+3.	¿ Se observan diferencias de género y territoriales en las razones declaradas para no buscar empleo?
+4.	¿ Qué importancia tienen el cuidado de niños, personas mayores, otros familiares y los quehaceres domésticos para estar fuera de la fuerza laboral?
 ## Organización del Repositorio: 
 El repositorio está organizado para facilitar el desarrollo y la reproducibilidad del análisis, siguiendo las distintas etapas del procesamiento y visualización de datos.
 Estructura de carpetas
 1. datos/
 Contiene los datos utilizados en el proyecto, organizados en:
-01_datos_crudos/: bases de datos originales, incluyendo CASEN 2024 y la clasificación territorial PNDR.
+01_datos_crudos/: bases de datos originales, incluyendo CASEN 2024.
 02_datos_consolidados/: bases de datos procesadas e integradas para el análisis.
 2. scripts/
 Contiene los códigos desarrollados en R, organizados según las etapas del análisis:
@@ -27,7 +29,7 @@ Contiene el informe del proyecto, donde se presentan las preguntas de investigac
 5. README.md
 Presenta el objetivo del proyecto, las fuentes de datos, la metodología y la organización del repositorio.
 ## Reproducibilidad
-El análisis se desarrolla en R utilizando datos de la Encuesta CASEN 2024 y la clasificación territorial PNDR.
+El análisis se desarrolla en R utilizando datos de la Encuesta CASEN 2024.
 Los códigos se encuentran organizados en la carpeta scripts/, siguiendo las etapas del proyecto:
 1.	01_cargar_librerias/: cargar las librerías necesarias.
 2.	02_cargar_datos/: importar y preparar las bases de datos.
@@ -35,17 +37,13 @@ Los códigos se encuentran organizados en la carpeta scripts/, siguiendo las eta
 Los resultados se almacenarán en la carpeta resultados/, separados en gráficos y tablas.
 El proyecto se encuentra en desarrollo, por lo que los análisis y visualizaciones se incorporarán prontamente. 
 ## Fuentes de Datos
-La investigación va a utilizar 2 fuentes de información que permiten analizar las brechas de género en la participación laboral y las tareas de cuidado desde una perspectiva territorial.
-1. Encuesta de Caracterización Socioeconómica Nacional (CASEN 2024)
+La investigación va a utilizar la Encuesta CASEN 2024 como fuente de información que permite analizar las brechas de género en la participación laboral y las tareas de cuidado desde una perspectiva territorial.
+Encuesta de Caracterización Socioeconómica Nacional (CASEN 2024)
 Elaborada por el Ministerio de Desarrollo Social y Familia de Chile.
 Esta encuesta proporciona información socioeconómica de los hogares y sus integrantes. Para este proyecto se utilizarán variables relacionadas con:
 Sexo de las personas.
 Participación en el mercado laboral.
 Realización de tareas de cuidado, según las variables disponibles.
 Comuna de residencia.
-2. Clasificación de comunas de la Política Nacional de Desarrollo Rural (PNDR)
-La clasificación PNDR permite identificar las comunas de Chile según su carácter rural, urbano o mixto.
-Esta información se utilizará para incorporar la dimensión territorial al análisis y comparar las brechas de género según el tipo de comuna.
 
-Integración de las fuentes: ambas bases se vincularán mediante el código de comuna, permitiendo asociar la información de CASEN 2024 con la clasificación territorial PNDR.
 Se considerarán los factores de expansión y las limitaciones de representatividad de CASEN para realizar e interpretar las comparaciones territoriales.
