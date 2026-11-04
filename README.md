@@ -38,10 +38,9 @@ Los códigos se encuentran organizados en la carpeta scripts/, siguiendo las eta
 Los resultados se almacenarán en la carpeta resultados/, separados en gráficos y tablas.
 El proyecto se encuentra en desarrollo, por lo que los análisis y visualizaciones se incorporarán prontamente. 
 ## Fuentes de Datos
-La investigación va a utilizar la Encuesta CASEN 2024 como fuente de información que permite analizar las brechas de género en la participación laboral y las tareas de cuidado desde una perspectiva territorial.
-Encuesta de Caracterización Socioeconómica Nacional (CASEN 2024)
-Elaborada por el Ministerio de Desarrollo Social y Familia de Chile.
-Esta encuesta proporciona información socioeconómica de los hogares y sus integrantes. Para este proyecto se utilizarán variables relacionadas con:
+La investigación va a utilizar la Encuesta de Caracterización Socioeconómica Nacional (CASEN 2024) como fuente de información, ya que permite analizar las brechas de género en la participación laboral y las tareas de cuidado desde una perspectiva territorial.
+
+Encuesta CASEN 2024: elaborada por el Ministerio de Desarrollo Social y Familia de Chile. Esta encuesta proporciona información socioeconómica de los hogares y sus integrantes. Para este proyecto se utilizarán variables relacionadas con:
 Sexo de las personas.
 Participación en el mercado laboral.
 Realización de tareas de cuidado, según las variables disponibles.
