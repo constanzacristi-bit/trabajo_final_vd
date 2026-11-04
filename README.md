@@ -2,7 +2,7 @@
 Las brechas de género en la participación laboral constituyen un desafío crucial para la equidad económica en Chile. Si bien la evidencia nacional muestra que la distribución desigual del trabajo no remunerado y de cuidados restringe la inserción laboral de las mujeres, los promedios nacionales pueden ocultar diferencias importantes entre zonas urbanas y rurales del país.  ¿Qué ocurre cuándo comparamos estas diferencias territoriales?  ¿Se mantienen las mismas brechas? 
 Este proyecto es una exploración inicial de los datos de la Encuesta de Caracterización Socioeconómica Nacional (Casen) del 2024, con el propósito de profundizar en cómo estas brechas se manifiestan en distintos contextos territoriales. 
 ## Pregunta principal
-¿Cómo varía entre zonas urbanas y rurales la brecha de género en la participación laboral, y qué parte de esa brecha se explica por la inactividad debida al cuidado?
+¿Cómo varía entre zonas urbanas y rurales la brecha de género en la participación laboral, y qué parte de esa brecha se explica por la inactividad debido al cuidado?
 ## Preguntas exploratorias
 1.	¿Qué dicen los promedios nacionales? 
 2.	¿Existen diferencias entre las zonas urbanas y rurales?
