@@ -3,12 +3,12 @@ Las brechas de género en la participación laboral constituyen un desafío cruc
 
 Este proyecto es una exploración inicial de los datos de la Encuesta de Caracterización Socioeconómica Nacional (Casen) del 2024, con el propósito de profundizar en cómo estas brechas se manifiestan en distintos contextos territoriales. 
 ## Pregunta principal
-¿Cómo varía entre zonas urbanas y rurales la brecha de género en la participación laboral, y qué parte de esa brecha se explica por la inactividad debido al cuidado?
+¿Cómo varía la brecha de género en la participación laboral entre zonas urbanas y rurales de Chile, y qué importancia tienen las responsabilidades de cuidado entre las razones declaradas para no buscar empleo?
 ## Preguntas exploratorias
-1.	¿Qué dicen los promedios nacionales? 
-2.	¿Existen diferencias entre las zonas urbanas y rurales?
-3.	¿ Se observan diferencias de género y territoriales en las razones declaradas para no buscar empleo?
-4.	¿ Qué importancia tienen el cuidado de niños, personas mayores, otros familiares y los quehaceres domésticos para estar fuera de la fuerza laboral?
+1.	¿Qué revelan los promedios nacionales sobre las brechas de género en la participación laboral?
+2.	¿Cómo varían estas brechas entre zonas urbanas y rurales?
+3.	¿Existen diferencias de género y territoriales en las razones declaradas para no buscar empleo?
+4.	¿Qué importancia tienen las responsabilidades de cuidado y los quehaceres domésticos entre estas razones?
 ## Organización del Repositorio: 
 El repositorio está organizado para facilitar el desarrollo y la reproducibilidad del análisis, siguiendo las distintas etapas del procesamiento y visualización de datos.
 Estructura de carpetas
