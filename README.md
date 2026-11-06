@@ -58,12 +58,19 @@ trabajo_final_vd/
 └── trabajo_final_vd.Rproj
 
 datos/01_datos_crudos/: destinada a las bases originales. Los microdatos de CASEN no se publican en el repositorio.
+
 datos/02_datos_consolidados/: contiene los cinco archivos CSV con indicadores y diferencias estimadas.
+
 scripts/: contiene los códigos R de preparación de datos, estimación de indicadores y generación de visualizaciones.
+
 resultados/01_graficos/: contiene los cuatro gráficos elaborados con ggplot2.
+
 resultados/02_tablas/: carpeta destinada a tablas de resultados.
+
 informe_final/: carpeta destinada al informe del proyecto.
+
 README.md: presenta las preguntas, los resultados, la metodología y la estructura del proyecto.
+
 ## Reproducibilidad
 El análisis se desarrolla en R utilizando datos de la Encuesta CASEN 2024. Para reproducir el análisis, se requiere descargar la base original de CASEN 2024 y guardarla como datos/01_datos_crudos/casen_2024.rdata.
 
