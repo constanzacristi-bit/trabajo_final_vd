@@ -98,7 +98,7 @@ grafico_1
 # Guardar gráfico 1
 
 ggsave(
-  filename = "resultados/grafico_01_participacion_nacional.png",
+  filename = "resultados/01_graficos/grafico_01_participacion_nacional.png",
   plot = grafico_1,
   width = 9,
   height = 3.5,
@@ -221,7 +221,7 @@ grafico_2
 # 5. Guardar gráfico 2
 
 ggsave(
-  filename = "resultados/grafico_02_participacion_urbano_rural.png",
+  filename = "resultados/01_graficos/grafico_02_participacion_urbano_rural.png",
   plot = grafico_2,
   width = 9,
   height = 4,
@@ -326,7 +326,7 @@ grafico_3
 # 7. Guardar gráfico 3
 
 ggsave(
-  filename = "resultados/grafico_03_cuidados_inactividad.png",
+  filename = "resultados/01_graficos/grafico_03_cuidados_inactividad.png",
   plot = grafico_3,
   width = 9,
   height = 4.5,
@@ -441,7 +441,7 @@ grafico_4
 # 9. Guardar gráfico 4
 
 ggsave(
-  filename = "resultados/grafico_04_diferencias_cuidado.png",
+  filename = "resultados/01_graficos/grafico_04_diferencias_cuidado.png",
   plot = grafico_4,
   width = 10,
   height = 5,

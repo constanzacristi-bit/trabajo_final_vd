@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Bases de datos originales
+/datos/01_datos_crudos/*
+
+# Conservar la carpeta en GitHub
+!/datos/01_datos_crudos/.gitkeep
