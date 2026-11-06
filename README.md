@@ -36,6 +36,7 @@ Estos resultados permiten acotar la evidencia previa, la principal diferencia te
 
 ## Organización del Repositorio 
 El repositorio está organizado para facilitar el desarrollo y la reproducibilidad del análisis, siguiendo las distintas etapas del procesamiento y visualización de datos.
+
 trabajo_final_vd/
 │
 ├── datos/
@@ -55,6 +56,7 @@ trabajo_final_vd/
 ├── README.md
 ├── .gitignore
 └── trabajo_final_vd.Rproj
+
 datos/01_datos_crudos/: destinada a las bases originales. Los microdatos de CASEN no se publican en el repositorio.
 datos/02_datos_consolidados/: contiene los cinco archivos CSV con indicadores y diferencias estimadas.
 scripts/: contiene los códigos R de preparación de datos, estimación de indicadores y generación de visualizaciones.
